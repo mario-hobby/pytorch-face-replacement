@@ -26,7 +26,7 @@ a video.
 
 Below is a sample result:
 <p align="center">
-    <img src="result.jpg" width="600"\>
+    <img src="result1.jpg" width="600"\>
  </p>
 
 from:

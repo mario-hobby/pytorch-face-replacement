@@ -26,12 +26,12 @@ a video.
 
 Below is a sample result:
 <p align="center">
-    <img src="result.png" width="600"\>
+    <img src="result.jpg" width="600"\>
  </p>
 
 from:
 <p align="center">
-    <img src="target.png" width="600"\>
+    <img src="target.jpg" width="600"\>
  </p>
 
 The individual image results sometimes look OK. For video is not good at all

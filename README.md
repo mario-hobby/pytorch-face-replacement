@@ -31,7 +31,7 @@ Below is a sample result:
 
 from:
 <p align="center">
-    <img src="target.jpg" width="600"\>
+    <img src="target1.jpg" width="600"\>
  </p>
 
 The individual image results sometimes look OK. For video is not good at all

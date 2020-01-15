@@ -34,9 +34,10 @@ from:
     <img src="target1.jpg" width="600"\>
  </p>
 
-The individual image results sometimes look OK. For video is not good at all
-because there is often too much change from one face to the next according to
-the landmarks.
+The individual image results often look belivable. If lightning and color contrasts are alike that's also helpful,
+since this face replacement merely finds the best face to replace but doesn't adjust any other contrast or colors.
+For video is not good at all
+because there is often too much variation from one face to the next and thus the face movements do not look natural.
 
 ## Requires
 I used a Mac OS so to install dlib in Mac OS, I used these fantastic

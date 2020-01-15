@@ -94,4 +94,4 @@ This will create a video like video_name.mp4. As you would see the individual
 images may look better than the resulting video.
 
 The other scripts not referenced here so far (like crop_face and show_landmarks)
-is here just for fun and is not needed for the face replacement.
+are here just for fun and are not needed for the face replacement.
